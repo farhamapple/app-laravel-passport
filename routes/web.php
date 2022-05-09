@@ -20,3 +20,4 @@ Route::get('/', function () {
 Route::get('/blank', function(){
     return view('blank');
 });
+
